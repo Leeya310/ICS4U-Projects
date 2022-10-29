@@ -1,11 +1,10 @@
-/*Copyright (C) 2022 Aleeya Irshad
+/*Copyright (C) 2022 Leeya310
 
 Program Name: Roman
 Assignment Name: Roman Numerals
-Instructor: E. Chun
-Course Code: ICS4U-03
+Course Code: ICS4U
 
-@author Aleeya Irshad
+@author Leeya310
 @version #: 3.2; On Friday, April 8th, 2022
 
 @Program Description: This program converts an integer input to Roman numerals and a string input of Roman
@@ -15,12 +14,12 @@ numerals to an integer using methods.
 complexity and efficiency, similar to real converters that use databases to access outputs quickly. It is assumed
 the boundaries for this program are 1-39,999.
 
-.------..------..------..------..------..------.                            
-|A.--. ||L.--. ||E.--. ||E.--. ||Y.--. ||A.--. |
-| (\/) || :/\: || (\/) || (\/) || (\/) || (\/) |
-| :\/: || (__) || :\/: || :\/: || :\/: || :\/: | 
-| '--'A|| '--'L|| '--'E|| '--'E|| '--'Y|| '--'A|
-`------'`------'`------'`------'`------'`------'
+.------..------..------..------..------.
+|L.--. ||E.--. ||E.--. ||Y.--. ||A.--. |
+| :/\: || (\/) || (\/) || (\/) || (\/) |
+| (__) || :\/: || :\/: || :\/: || :\/: |
+| '--'L|| '--'E|| '--'E|| '--'Y|| '--'A|
+`------'`------'`------'`------'`------'
 
 ------------------------------------------------------------------------------------------------------------------*/
 
@@ -30,7 +29,7 @@ import java.util.Scanner;
 
 /**
  * This class <strong>converts Roman numerals to integers and vice versa</strong>
- * @author Aleeya Irshad
+ * @author Leeya310
  */
 public class RomanNew {
 	
