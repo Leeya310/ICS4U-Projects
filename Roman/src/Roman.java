@@ -30,7 +30,7 @@ import java.util.Scanner;
 
 /**
  * This class <strong>converts Roman numerals to integers and vice versa</strong>
- * @authorLeeya310
+ * @author Leeya310
  */
 public class Roman {
 	
