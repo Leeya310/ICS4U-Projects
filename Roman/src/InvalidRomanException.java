@@ -1,26 +1,25 @@
 /*
- Copyright (C) 2022 Aleeya Irshad
+ Copyright (C) 2022 Leeya310
  Program Name: Roman
  Assignment Name: Roman Numerals
- Instructor: E. Chun
- Course Code: ICS4U-03
+ Course Code: ICS4U
  
- @author Aleeya Irshad
+ @author  Leeya310
  @version #: 3.2; On Friday, April 8th, 2022
  
-.------..------..------..------..------..------.                            
-|A.--. ||L.--. ||E.--. ||E.--. ||Y.--. ||A.--. |
-| (\/) || :/\: || (\/) || (\/) || (\/) || (\/) |
-| :\/: || (__) || :\/: || :\/: || :\/: || :\/: | 
-| '--'A|| '--'L|| '--'E|| '--'E|| '--'Y|| '--'A|
-`------'`------'`------'`------'`------'`------'
+.------..------..------..------..------.
+|L.--. ||E.--. ||E.--. ||Y.--. ||A.--. |
+| :/\: || (\/) || (\/) || (\/) || (\/) |
+| (__) || :\/: || :\/: || :\/: || :\/: |
+| '--'L|| '--'E|| '--'E|| '--'Y|| '--'A|
+`------'`------'`------'`------'`------'
 
 ------------------------------------------------------------------------------------------------------------------*/
 
 
 /**
  * This class extends the Exception by <strong>handling invalid inputs through unoptimized</strong> number of Roman characters
- * @author Aleeya Irshad
+ * @author Leeya310
  */
 public class InvalidRomanException extends Exception {
 	public InvalidRomanException (String message) {
